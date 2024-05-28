@@ -1,0 +1,34 @@
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\bin\Debug\net8.0\VehicleVault.Ef.deps.json
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\bin\Debug\net8.0\VehicleVault.Ef.runtimeconfig.json
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\bin\Debug\net8.0\VehicleVault.Ef.dll
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\bin\Debug\net8.0\VehicleVault.Ef.pdb
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\bin\Debug\net8.0\VehicleVault.Core.dll
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\bin\Debug\net8.0\VehicleVault.Core.pdb
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleVault.Ef.csproj.AssemblyReference.cache
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleVault.Ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleVault.Ef.AssemblyInfoInputs.cache
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleVault.Ef.AssemblyInfo.cs
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleVault.Ef.csproj.CoreCompileInputs.cache
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleV.E91C9196.Up2Date
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleVault.Ef.dll
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\refint\VehicleVault.Ef.dll
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleVault.Ef.pdb
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleVault.Ef.genruntimeconfig.cache
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\ref\VehicleVault.Ef.dll
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\bin\Debug\net8.0\VehicleVault.Ef.deps.json
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\bin\Debug\net8.0\VehicleVault.Ef.runtimeconfig.json
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\bin\Debug\net8.0\VehicleVault.Ef.dll
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\bin\Debug\net8.0\VehicleVault.Ef.pdb
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\bin\Debug\net8.0\VehicleVault.Core.dll
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\bin\Debug\net8.0\VehicleVault.Core.pdb
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleVault.Ef.csproj.AssemblyReference.cache
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleVault.Ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleVault.Ef.AssemblyInfoInputs.cache
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleVault.Ef.AssemblyInfo.cs
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleVault.Ef.csproj.CoreCompileInputs.cache
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleV.E91C9196.Up2Date
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleVault.Ef.dll
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\refint\VehicleVault.Ef.dll
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleVault.Ef.pdb
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\VehicleVault.Ef.genruntimeconfig.cache
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Ef\obj\Debug\net8.0\ref\VehicleVault.Ef.dll

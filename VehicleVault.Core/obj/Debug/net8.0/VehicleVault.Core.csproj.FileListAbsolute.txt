@@ -1,0 +1,24 @@
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Core\bin\Debug\net8.0\VehicleVault.Core.deps.json
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Core\bin\Debug\net8.0\VehicleVault.Core.dll
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Core\bin\Debug\net8.0\VehicleVault.Core.pdb
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\VehicleVault.Core.csproj.AssemblyReference.cache
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\VehicleVault.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\VehicleVault.Core.AssemblyInfoInputs.cache
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\VehicleVault.Core.AssemblyInfo.cs
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\VehicleVault.Core.csproj.CoreCompileInputs.cache
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\VehicleVault.Core.dll
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\refint\VehicleVault.Core.dll
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\VehicleVault.Core.pdb
+C:\Users\Micro     Soft\Desktop\Project Vehicle Rentals\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\ref\VehicleVault.Core.dll
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Core\bin\Debug\net8.0\VehicleVault.Core.deps.json
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Core\bin\Debug\net8.0\VehicleVault.Core.dll
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Core\bin\Debug\net8.0\VehicleVault.Core.pdb
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\VehicleVault.Core.csproj.AssemblyReference.cache
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\VehicleVault.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\VehicleVault.Core.AssemblyInfoInputs.cache
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\VehicleVault.Core.AssemblyInfo.cs
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\VehicleVault.Core.csproj.CoreCompileInputs.cache
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\VehicleVault.Core.dll
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\refint\VehicleVault.Core.dll
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\VehicleVault.Core.pdb
+C:\Users\Micro     Soft\Desktop\Copy Project\VehicleVault\VehicleVault.Core\obj\Debug\net8.0\ref\VehicleVault.Core.dll

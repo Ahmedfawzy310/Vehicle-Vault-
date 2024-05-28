@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4M9FUq0kyFG+7c7PcV3BCv6joIoMCtTbNVowcJah+hI=",
+  "Source": "VehicleVault.Api",
+  "BasePath": "_content/VehicleVault.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
